@@ -96,6 +96,11 @@
 <p align="center">
   <img src="https://github.com/greenecon/conferences/blob/gh-pages/1.jpg" />
 </p>
+<figure>
+  <img src="https://github.com/greenecon/conferences/blob/gh-pages/1.jpg">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
 
 ![进校申请用微信扫描此二维码](https://github.com/greenecon/conferences/blob/gh-pages/1.jpg)
 
