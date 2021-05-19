@@ -116,7 +116,7 @@
 
 ### 就餐指南
 <p align="center">
-  <img src="https://github.com/greenecon/conferences/blob/gh-pages/3.png" / width="100" height="100">
+  <img src="https://github.com/greenecon/conferences/blob/gh-pages/3.png" />
 </p>
 <br/>
 
