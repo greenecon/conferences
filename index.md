@@ -98,13 +98,18 @@
   <img src="https://github.com/greenecon/conferences/blob/gh-pages/1.jpg" />
 </p>
 <div align="center"> 进校申请用微信扫描此二维码 </div>
-
+<br/>
 
 （进校申请用微信扫描此二维码）
 6、为方便参会老师接收会议信息，请大家扫描以上右边二维码入群。
 
-![与会者用微信扫描此二维码](./conferences/2.png)
+<p align="center">
+  <img src="https://github.com/greenecon/conferences/blob/gh-pages/2.png" />
+</p>
+<div align="center"> 与会者用微信扫描此二维码 </div>
 （与会者用微信扫描此二维码）
+
+
 7、如参会代表开私家车进校请告知会务组敖祥源老师（15177184109）车牌号，以便录入管理系统，也需要从前湖校区5号门扫码进入。
 
 -----------------------
