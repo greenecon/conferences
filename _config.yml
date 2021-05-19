@@ -6,8 +6,8 @@ site_url: https://greenecon.github.io/conferences/
 show_downloads: false
 color:
   header: "#FFFFFF"
-  gradient_left: "#F3904F"
-  gradient_right: "#3B4371"
+  gradient_left: "#373B44"
+  gradient_right: "#4286f4"
 buttons:
       zip_url: https://Ziqian-xia.github.io
       zip_title: Back to Homepage
