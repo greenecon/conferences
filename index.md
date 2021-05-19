@@ -93,16 +93,12 @@
 4、外出活动请注意安全，早晚注意防寒保暖。请保管好自己的贵重物品，离开房间时请随手关门。
 5、为满足南昌大学疫情防控需要，请微信扫描下方二维码，点击“访问申请”。填写个人信息，“校内接待单位”项选“教学单位”—“社科学部”— “经济管理学院”，“接待人员”项填入“田西”，出入校区选“前湖校区（本部5号门）” ，“事由”填入“参加工业绿色发展会议”。
 
+
 <p align="center">
   <img src="https://github.com/greenecon/conferences/blob/gh-pages/1.jpg" />
 </p>
-<figure>
-  <img src="https://github.com/greenecon/conferences/blob/gh-pages/1.jpg">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
+<div align="center"> 进校申请用微信扫描此二维码 </div>
 
-
-![进校申请用微信扫描此二维码](https://github.com/greenecon/conferences/blob/gh-pages/1.jpg)
 
 （进校申请用微信扫描此二维码）
 6、为方便参会老师接收会议信息，请大家扫描以上右边二维码入群。
