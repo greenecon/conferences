@@ -100,14 +100,14 @@
 <div align="center"> 进校申请用微信扫描此二维码 </div>
 <br/>
 
-（进校申请用微信扫描此二维码）
+
 6、为方便参会老师接收会议信息，请大家扫描以上右边二维码入群。
 
 <p align="center">
   <img src="https://github.com/greenecon/conferences/blob/gh-pages/2.png" />
 </p>
 <div align="center"> 与会者用微信扫描此二维码 </div>
-（与会者用微信扫描此二维码）
+<br/>
 
 
 7、如参会代表开私家车进校请告知会务组敖祥源老师（15177184109）车牌号，以便录入管理系统，也需要从前湖校区5号门扫码进入。
@@ -115,23 +115,35 @@
 -----------------------
 
 ### 就餐指南
-![就餐指南](./conferences/3.png)
+<p align="center">
+  <img src="https://github.com/greenecon/conferences/blob/gh-pages/3.png" />
+</p>
+<br/>
+
 
 ------------------------
 
 ### 交通导航
 由于疫情期间，校外人员只能从南昌大学前湖校区5号门（嘉言路北门）进入，因此，请各位参会人员先前往校区5号门，再前往前湖宾馆，具体路线如下：
 南昌昌北机场——南昌大学前湖校区5号门
-![南昌昌北机场——南昌大学前湖校区5号门](./conferences/4.png)
+<p align="center">
+  <img src="https://github.com/greenecon/conferences/blob/gh-pages/4.png" />
+</p>
 南昌高铁西站——南昌大学前湖校区5号门
-![南昌高铁西站——南昌大学前湖校区5号门](./conferences/5.png)
+<p align="center">
+  <img src="https://github.com/greenecon/conferences/blob/gh-pages/5.png" />
+</p>
 
 南昌火车站——南昌大学前湖校区5号门
-![南昌火车站——南昌大学前湖校区5号门](./conferences/6.png)
+<p align="center">
+  <img src="https://github.com/greenecon/conferences/blob/gh-pages/6.png" />
+</p>
 南昌大学前湖校区5号门——前湖宾馆
 
 具体步行路线如下：
-![南昌大学前湖校区5号门——前湖宾馆](./conferences/7.png)
+<p align="center">
+  <img src="https://github.com/greenecon/conferences/blob/gh-pages/7.png" />
+</p>
 
 ------------------
 
