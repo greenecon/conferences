@@ -95,7 +95,7 @@
 
 
 <p align="center">
- <img alt="" src="/1.jng" />
+ <img alt="" src="/1.jpg" />
 </p>
 <div align="center"> 进校申请用微信扫描此二维码 </div>
 <br/>
