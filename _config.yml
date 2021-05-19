@@ -1,2 +1,19 @@
 theme: jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
 title: Recent Conferences
+description: 
+show_downloads: false
+color:
+  header: "#FFFFFF"
+  gradient_left: "#F3904F"
+  gradient_right: "#3B4371"
+buttons:
+      zip_url: https://Ziqian-xia.github.io
+      zip_title: Back to Homepage
+      zip_hide: false
+      tar_url: http://example.com/
+      tar_title: Latest Talk
+      tar_hide: false
+      github_hide: true # hides "View on Github"
+plugins:
+  - jekyll-relative-links
