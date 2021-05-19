@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 remote_theme: tuur29/pages-themes-cayman
 title: Recent Conferences
 description: 
+site_url: https://greenecon.github.io/conferences/
 show_downloads: false
 color:
   header: "#FFFFFF"
